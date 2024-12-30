@@ -39,3 +39,7 @@ Once the development phase was complete, the portfolio was optimized for speed a
 
 **Challenges and Learning Outcomes**
 The project presented several challenges, including responsive design across devices, smooth integration of the backend with the frontend, and securing the contact form to prevent spam. Overcoming these hurdles enhanced my problem-solving abilities and deepened my understanding of web development.
+
+# Output
+![Screenshot 2024-12-30 235321](https://github.com/user-attachments/assets/5402911f-0307-4711-8337-089111df1a3e)
+
