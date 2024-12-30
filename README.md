@@ -12,6 +12,7 @@
 **MENTOR NAME**:Sravani
 
 #Descrption of my personal portfolio
+
   In the digital age, having a personal portfolio is essential for showcasing skills, projects, and experience in an appealing and organized way. To demonstrate my capabilities in full-stack development, I undertook the task of creating a personal portfolio website using modern web development tools and technologies. This project not only honed my technical skills but also allowed me to understand the intricacies of designing and deploying a functional web application.
 
 **Objective and Purpose**
